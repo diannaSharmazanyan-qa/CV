@@ -55,7 +55,7 @@ body {
 }
 
 .links {
-  width: 320px;
+  width: 340px;
   margin-bottom: 40px;
 }
 
@@ -95,7 +95,7 @@ body {
   padding: 0px 0px 10px;
   gap: 30px;
   border-bottom: 1px solid var(--underline);
-  width: 280px;
+  width: 345px;
 }
 
 .links__link:last-child {
